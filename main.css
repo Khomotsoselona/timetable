@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  opacity: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.interactive {
+  background-color: #fbd1f9;
+}
+.gd {
+  background-color: #c5d6f0;
+}
+
+.dl {
+  background-color: #b6dee6;
+}
+
+.study {
+  background-color: lightsteelblue;
+  color: rgb(109, 129, 167);
+}
+
+.photography {
+  background-color: #fdfd9b;
+}
+
+.st {
+  background-color: rgb(197, 226, 197);
+}
+
+.kuben {
+  background-color: #fad3b4;
+}
+
+.mg {
+  background-color: #d6e1b9;
+}
+.ss {
+  background-color: #d9d9d9;
+  color: grey;
+}
+
+main h3 {
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
